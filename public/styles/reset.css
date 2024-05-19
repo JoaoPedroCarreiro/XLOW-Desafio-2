@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    text-decoration: none;
+    background-color: transparent;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+input[type=button], input[type=submit], button, a {
+    cursor: pointer;
+}
+
+img, button, a, input {
+    display: block;
+}
+
+strong {
+    font-weight: 500;
+}
+
+ul, li {
+    list-style-type: none;
+}
